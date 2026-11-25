@@ -1,0 +1,4 @@
+# One address per line. A comment may follow the address.
+# Lines starting with # are ignored.
+203.0.113.10 office
+203.0.113.11 home
